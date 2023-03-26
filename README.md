@@ -10,8 +10,11 @@ https://white-bay-0a8377e00.2.azurestaticapps.net/
 To see a demo of the website in action, please check out the following video:
 
 
-# **Azure technologies used for Project: **
+# **Azure technologies used for Project **
+
+
 1.Static web apps
+
 2.Heath bot
 
 # **Screenshots **
