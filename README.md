@@ -9,6 +9,11 @@ https://white-bay-0a8377e00.2.azurestaticapps.net/
 # **Demo Video**
 To see a demo of the website in action, please check out the following video:
 
+
+# **Azure technologies used for Project: **
+1.Static web apps
+2.Heath bot
+
 # **Screenshots **
 ![Bliss - Google Chrome 26-03-2023 21_30_53](https://user-images.githubusercontent.com/81307680/227788367-dc15757b-55cd-4d3e-9027-14e46779963e.png)
 ![Bliss - Google Chrome 26-03-2023 21_31_08](https://user-images.githubusercontent.com/81307680/227788397-23403fbd-e97e-479d-902a-2e17bf85446e.png)
